@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T17:23:22 IST" name="Default suite" finished-at="2022-09-19T17:24:13 IST" duration-ms="51115">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T17:23:22 IST" name="Default test" finished-at="2022-09-19T17:24:13 IST" duration-ms="51115">
+      <class name="mobile_world.homepage">
+        <test-method signature="homepage01()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:23:22 IST" name="homepage01" finished-at="2022-09-19T17:23:27 IST" duration-ms="5604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage01 -->
+        <test-method signature="homepage02()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:23:27 IST" name="homepage02" finished-at="2022-09-19T17:23:35 IST" duration-ms="7906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage02 -->
+        <test-method signature="homepage03()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:23:35 IST" name="homepage03" finished-at="2022-09-19T17:23:41 IST" duration-ms="6036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage03 -->
+        <test-method signature="homepage04()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:23:41 IST" name="homepage04" finished-at="2022-09-19T17:23:47 IST" duration-ms="6036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage04 -->
+        <test-method signature="homepage05()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:23:47 IST" name="homepage05" finished-at="2022-09-19T17:23:55 IST" duration-ms="8047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage05 -->
+        <test-method signature="homepage06()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:23:55 IST" name="homepage06" finished-at="2022-09-19T17:24:01 IST" duration-ms="6022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage06 -->
+        <test-method signature="homepage07()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:24:01 IST" name="homepage07" finished-at="2022-09-19T17:24:09 IST" duration-ms="8076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage07 -->
+        <test-method signature="homepage08()[pri:0, instance:mobile_world.homepage@28f3b248]" started-at="2022-09-19T17:24:09 IST" name="homepage08" finished-at="2022-09-19T17:24:13 IST" duration-ms="3340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage08 -->
+      </class> <!-- mobile_world.homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

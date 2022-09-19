@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="mobile_world.homepage">
+        <methods>
+          <include name="homepage02"/>
+          <include name="homepage01"/>
+          <include name="homepage04"/>
+          <include name="homepage03"/>
+          <include name="homepage06"/>
+          <include name="homepage05"/>
+          <include name="homepage08"/>
+          <include name="homepage07"/>
+        </methods>
+      </class> <!-- mobile_world.homepage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
